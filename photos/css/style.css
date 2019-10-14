@@ -1,0 +1,156 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Martel Sans', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#portfoliolink {
+    color: white;
+    margin-left: 119px;
+}
+
+body {
+    background-color: black;
+}
+
+nav {
+    background-color: #fff;
+    
+}
+
+.name {
+    background-color: black;
+    color: white;
+    margin-top: 52px;
+    Left: 0;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    position: absolute;
+    font-size: 20px;
+    margin-left: 119px;
+    line-height: 50px;
+    font-weight: bold;
+  
+}
+
+ul {
+
+}
+
+ul li {
+list-style: none;
+display: inline-block;
+line-height: 100px;
+float: left;
+}
+
+ul li a{
+    display: block;
+text-decoration: none;
+font-size: 12 px;
+font-family: 'Georgia', Times, Times New Roman, serif;
+color: black;
+padding: 0 20px;
+
+}
+.wrapper {
+    margin-left: 850px;
+}
+
+.fallingin {
+    width: 200px;
+}
+
+.content{
+    margin-left: 120px;
+    margin-top: 50px;
+    width: 960px;
+    padding: 20px;
+    background-color: #fff;
+    height: 480px;
+    position: absolute;
+} 
+
+.fallingin {
+    float: left;
+    margin: 10px;
+}
+
+.formname {
+    color: white;
+}
+
+.formemail {
+    color: white;
+}
+
+.formmessage {
+    color: white;
+}
+
+textarea {
+   
+    max-height: 200px;
+    width: 650px;
+}
+
+.monkey {
+    width:250px;
+    height:250px;
+}
+
+.alpaca {
+    width:250px;
+    height:250px;
+}
+
+.giraffe {
+    width:250px;
+    height:250px;
+
+}
+
+.turtle {
+    width:250px;
+    height:250px;
+
+}
+
+.piggy {
+    width:250px;
+    height:250px;
+
+}
+
+
+table {
+    height: 1000px;
+    width: 500px;
+}
+
+th {
+    font-size: 30px;
+    color: white;
+    text-align: left;
+    padding: 20 px;
+}
+
+.portfolio {
+    color: white;
+}
+
+table {
+    margin-left: 120px;
+    margin-top: 50px;
+    width: 960px;
+    height: 480px;
+    position: absolute;
+}
+
+td {
+    padding: 25px;
+}
+
